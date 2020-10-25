@@ -1,0 +1,7 @@
+# copy main.py and requirements to any program_directory
+
+cd ~/program_directory
+
+pip install -r < requirements.txt
+
+python main.py
