@@ -4,4 +4,7 @@ cd ~/program_directory
 
 pip install -r < requirements.txt
 
+
+to run program:
+
 python main.py
